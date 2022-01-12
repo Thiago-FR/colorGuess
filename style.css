@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: aliceblue;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#answer {
+  font-size: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  width: 550px;
+  height: 60px;
+  line-height: 55px;
+}
+
+#score {
+  font-size: 20px;
+  width: 550px;
+}
+
+#title {
+  margin: 20px 0;
+}
+
+#rgb-principal {
+  margin: 20px 0;
+}
+
+#rgb-container {
+  width: 270px;
+  margin: 20px 0;
+}
+
+#rgb-color {
+  text-transform: uppercase;
+  font-size: 40px;
+  background-color: white;
+  padding: 30px 0;
+  width: 550px;
+}
+
+#reset-game {
+  margin-bottom: 10px;
+}
+
+.btn-game {
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  background-color: rgb(214, 205, 152);
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  box-shadow: 5px 5px 5px rgb(112, 107, 107);
+}
+
+.btn-game:hover {
+  background-color: rgb(214, 205, 152, .5);
+}
+
+.btn-game:active {
+  margin-left: 3px;
+  margin-top: 3px;
+  box-shadow: 2px 2px 2px rgb(112, 107, 107);
+}
+
+.ball {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+/* Menu Navegação */ 
+
+#menu-nav {
+  text-align: center;
+  padding: 25px 0;
+  background-color: rgb(255, 255, 255);
+}
+
+#menu-nav a {
+  font-family: 'Stick No Bills', sans-serif;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  transition: 1s;
+  font-size: 20px;
+}
+
+#menu-nav a:hover {
+  font-size: 22px;
+  border-radius: 2px;
+  background-color: rgba(0, 0, 0, .05);
+  padding: 10px;
+}
