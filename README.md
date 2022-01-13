@@ -4,7 +4,7 @@
 
 ## Sumário <a name="sumario"></a>
 
-- [Boas vindas ao repositório do projeto Trybe Wallet!](#boas-vindas-ao-repositorio-do-projeto-pixels-arte)
+- [Boas vindas ao repositório do projeto Adivinhação de Cor!](#boas-vindas-ao-repositorio-do-projeto-pixels-arte)
 - [Sumário](#sumario)
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Habilidades Desenvolvidas](#habilidades)
