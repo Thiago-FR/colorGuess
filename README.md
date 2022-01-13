@@ -1,4 +1,4 @@
-[PROJETO]()
+[PROJETO](https://thiago-fr.github.io/colorGuess/)
 
 # Boas vindas ao repositório do projeto de adivinhação de Cor! <a name="boas-vindas-ao-repositorio-do-projeto-pixels-arte"></a>
 
@@ -37,4 +37,4 @@
   * Entre na pasta do repositório que você acabou de clonar:
     
 2. Ou click no link abaixo e veja funcionando.
-  * [PROJETO]()
+  * [PROJETO](https://thiago-fr.github.io/colorGuess/)
