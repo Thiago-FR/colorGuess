@@ -9,6 +9,7 @@
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Habilidades Desenvolvidas](#habilidades)
 - [Para testar o projeto](#testar-o-projeto)
+- [Protótipo](#prototipo)
 
 ---
 
@@ -38,3 +39,7 @@
     
 2. Ou click no link abaixo e veja funcionando.
   * [PROJETO](https://thiago-fr.github.io/colorGuess/)
+
+## Protótipo <a name="prototipo"></a>
+
+![Protótipo](/color-Guess.gif)
